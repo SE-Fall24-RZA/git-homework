@@ -6,3 +6,5 @@ Group Members:
 Robert Thomas (rtthoma3@ncsu.edu)
 Anuraag Jajoo (ajajoo3@ncsu.edu)
 Zayaan Husain Siddiqui (Zsiddiq@ncsu.edu)
+
+![image](webpage_screenshot.PNG)
